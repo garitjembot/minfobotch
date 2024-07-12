@@ -86,9 +86,9 @@ handler.all = async function(m) {
             forwardingScore: 1,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                "newsletterJid": "120363255615227987@newsletter",
+                "newsletterJid": "120363183258593542@newsletter",
                 "serverMessageId": 103,
-                "newsletterName": `AYO KLIK AKU AYO KLIK AKU`
+                "newsletterName": `📡 ping : ${ms} × ⌜ NightMare MD ⌟ © - Tio`
 
             },
             externalAdReply: {
@@ -97,7 +97,7 @@ handler.all = async function(m) {
                 body: ucapan(),
                 previewType: "VIDEO",
                 thumbnailUrl: logo,
-                sourceUrl: 'https://www.instagram.com/peddle.pop_',
+                sourceUrl: 'https://nightmare.bot.whatsapp.md',
 
             }
         }
